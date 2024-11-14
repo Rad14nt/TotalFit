@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "baseUrl": ".",
+    "paths": {
+      "@totalfitx/*": ["libs/*"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}

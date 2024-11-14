@@ -1,0 +1,1065 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.5.4",
+  "deps": {
+    "vite-plugin-node-polyfills": "^0.22.0",
+    "@nrwl/cli": "latest",
+    "@nrwl/workspace": "latest",
+    "nx": "latest"
+  },
+  "pathMappings": {
+    "@totalfitx/*": [
+      "libs/*"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "frontend/browser/src/api/.openapi-generator-ignore",
+        "hash": "5921108589004068994"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/Activity.java",
+        "hash": "4651075939883786729"
+      },
+      {
+        "file": "frontend/mobile/windows/flutter/generated_plugin_registrant.h",
+        "hash": "1337393613388320760"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/controller/UserController.java",
+        "hash": "2568722842950927851"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/res/drawable/launch_background.xml",
+        "hash": "5511422839137257193"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/utils.cpp",
+        "hash": "14189937216531915874"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+        "hash": "17821057072759496051"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png",
+        "hash": "1874192408977113223"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/MainFlutterWindow.swift",
+        "hash": "8924617639355385004"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png",
+        "hash": "9089880720354936574"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/WorkoutHasExerciseRepository.java",
+        "hash": "16232677456115821035"
+      },
+      {
+        "file": "frontend/mobile/web/icons/Icon-192.png",
+        "hash": "11127250911784749408"
+      },
+      {
+        "file": "frontend/mobile/linux/.gitignore",
+        "hash": "17248927135541934928"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/PerformedWorkout.java",
+        "hash": "13729057689870773241"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/Role.java",
+        "hash": "10655636155601548899"
+      },
+      {
+        "file": "frontend/browser/src/components/component/header-component.tsx",
+        "hash": "9831422203381335594"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png",
+        "hash": "1725712220684977236"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Info.plist",
+        "hash": "13505573044394889466"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png",
+        "hash": "10377708388050066887"
+      },
+      {
+        "file": "frontend/browser/amplify/cli.json",
+        "hash": "4978011415692937303"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png",
+        "hash": "4764981302566026812"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/flutter_window.h",
+        "hash": "7655109952900221743"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/resource.h",
+        "hash": "15176675414247382188"
+      },
+      {
+        "file": "frontend/mobile/android/gradle/wrapper/gradle-wrapper.properties",
+        "hash": "8565226809910836763"
+      },
+      {
+        "file": "frontend/browser/src/components/component/account-setup-stepper.tsx",
+        "hash": "11989166568219747378"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/use-toast.ts",
+        "hash": "1926694879104732356"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png",
+        "hash": "15597081444621038052"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/win32_window.cpp",
+        "hash": "4514040089842926568"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/Person.java",
+        "hash": "8578790364995625624"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner.xcworkspace/contents.xcworkspacedata",
+        "hash": "4742342662791468935"
+      },
+      {
+        "file": "frontend/mobile/pubspec.lock",
+        "hash": "2758971163998391273"
+      },
+      {
+        "file": "frontend/mobile/ios/RunnerTests/RunnerTests.swift",
+        "hash": "6083098552769587107"
+      },
+      {
+        "file": "frontend/mobile/test/widget_test.dart",
+        "hash": "3774169736878386143"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/toaster.tsx",
+        "hash": "15074402455197094655"
+      },
+      {
+        "file": "frontend/browser/amplify/README.md",
+        "hash": "15886200498255666175"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+        "hash": "15708111555404766564"
+      },
+      {
+        "file": "backend/src/main/resources/logback.xml",
+        "hash": "6866293319548100140"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png",
+        "hash": "1707950882390526744"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/PropertyLogger.java",
+        "hash": "11165373502898800767"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+        "hash": "12758156220368008677"
+      },
+      {
+        "file": "frontend/mobile/pubspec.yaml",
+        "hash": "10985468663971275123"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/BackendApplication.java",
+        "hash": "10781742570698734813"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png",
+        "hash": "15597081444621038052"
+      },
+      {
+        "file": "backend/mvnw",
+        "hash": "13478475927638852605"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/config/SecurityConfig.java",
+        "hash": "5433148404503444127"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/PersonRepository.java",
+        "hash": "6285636749551730656"
+      },
+      {
+        "file": "frontend/browser/public/logo.svg",
+        "hash": "499831644189618598"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png",
+        "hash": "7106691059326038311"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner.xcworkspace/contents.xcworkspacedata",
+        "hash": "4742342662791468935"
+      },
+      {
+        "file": "frontend/mobile/android/.gitignore",
+        "hash": "17265547462465294225"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/config/CognitoConfig.java",
+        "hash": "4868679325163799198"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/card.tsx",
+        "hash": "9572552624677261021"
+      },
+      {
+        "file": "frontend/mobile/android/gradle.properties",
+        "hash": "2906543644579476239"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Base.lproj/Main.storyboard",
+        "hash": "14904083556729443444"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "16944379857158132262"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png",
+        "hash": "8198580046434161737"
+      },
+      {
+        "file": "backend/Dockerfile",
+        "hash": "6873134458866186318"
+      },
+      {
+        "file": "frontend/browser/.eslintrc.json",
+        "hash": "10616060546436571437"
+      },
+      {
+        "file": "frontend/browser/src/app/dashboard/page.tsx",
+        "hash": "11849426661592735290"
+      },
+      {
+        "file": "frontend/browser/src/api/common.ts",
+        "hash": "5388765131137172375"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
+        "hash": "6372522684559429028"
+      },
+      {
+        "file": "frontend/mobile/web/icons/Icon-512.png",
+        "hash": "17592935996014618579"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/PerformedWorkoutHasExerciseRepository.java",
+        "hash": "2774935093445686850"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/dto/UserRegistrationDto.java",
+        "hash": "17869819053967528430"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme",
+        "hash": "1264852068515132677"
+      },
+      {
+        "file": "frontend/browser/src/api/.npmignore",
+        "hash": "9470206609760406689"
+      },
+      {
+        "file": "frontend/browser/tailwind.config.ts",
+        "hash": "2005743719620755229"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+        "hash": "15708111555404766564"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/button.tsx",
+        "hash": "15867611193771364424"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png",
+        "hash": "14420767294843778987"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/User.java",
+        "hash": "3811110500847083593"
+      },
+      {
+        "file": "frontend/browser/amplify/hooks/README.md",
+        "hash": "4491822230140534369"
+      },
+      {
+        "file": "frontend/mobile/linux/CMakeLists.txt",
+        "hash": "15842138712061586345"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png",
+        "hash": "17857370851071422985"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/debug/AndroidManifest.xml",
+        "hash": "17400841291332940227"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Configs/AppInfo.xcconfig",
+        "hash": "18101106800356002787"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/res/values/styles.xml",
+        "hash": "8968243407107788021"
+      },
+      {
+        "file": "frontend/browser/public/walk_icon.svg",
+        "hash": "2192600394042098888"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png",
+        "hash": "3771910045509164028"
+      },
+      {
+        "file": "frontend/mobile/web/icons/Icon-maskable-512.png",
+        "hash": "12486398084247681868"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/Workout.java",
+        "hash": "10795084643048470670"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings",
+        "hash": "12614023595271004039"
+      },
+      {
+        "file": "frontend/browser/public/placeholder.svg",
+        "hash": "8334994000532407949"
+      },
+      {
+        "file": "frontend/browser/public/google_logo.svg",
+        "hash": "8277608597728055851"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/config/PropertyLogger.java",
+        "hash": "9251876108501344455"
+      },
+      {
+        "file": "frontend/browser/src/components/component/side-nav-component.tsx",
+        "hash": "14044742598620985748"
+      },
+      {
+        "file": "backend/src/main/resources/db/migration/V2__Add_sex_to_persondata.sql",
+        "hash": "825194857753844347"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+        "hash": "15708111555404766564"
+      },
+      {
+        "file": "frontend/mobile/windows/flutter/CMakeLists.txt",
+        "hash": "7731691271552484236"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png",
+        "hash": "14505517143401598021"
+      },
+      {
+        "file": "frontend/browser/openapitools.json",
+        "hash": "506816575023874783"
+      },
+      {
+        "file": "frontend/mobile/macos/Flutter/Flutter-Release.xcconfig",
+        "hash": "4283936318666559862"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/chart.tsx",
+        "hash": "14678223243801783731"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png",
+        "hash": "10744190497123437199"
+      },
+      {
+        "file": "frontend/browser/src/app/globals.css",
+        "hash": "11267756914832919714"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/controller/AuthController.java",
+        "hash": "17827412235941890440"
+      },
+      {
+        "file": "frontend/mobile/analysis_options.yaml",
+        "hash": "9245961353574580177"
+      },
+      {
+        "file": "frontend/browser/src/components/component/loading-circle-component.tsx",
+        "hash": "15360848969637524258"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/mapper/DtoMapper.java",
+        "hash": "16634367045304824753"
+      },
+      {
+        "file": "frontend/browser/src/app/smart-gadgets/page.tsx",
+        "hash": "5103916282473983620"
+      },
+      {
+        "file": "frontend/browser/src/actions/register.ts",
+        "hash": "7879333636527844954"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/profile/AndroidManifest.xml",
+        "hash": "17400841291332940227"
+      },
+      {
+        "file": "frontend/mobile/linux/flutter/generated_plugins.cmake",
+        "hash": "967311670984603872"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/CMakeLists.txt",
+        "hash": "13855490185982379517"
+      },
+      {
+        "file": "frontend/mobile/android/settings.gradle",
+        "hash": "7081703895770607768"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/PersonDataRepository.java",
+        "hash": "7537400045609045900"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/WorkoutHasExercise.java",
+        "hash": "11798672397684385925"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/security/JwtRequestFilter.java",
+        "hash": "11536710158404534565"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/res/values-night/styles.xml",
+        "hash": "8349030034759943055"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+        "hash": "538329535567975093"
+      },
+      {
+        "file": "frontend/mobile/linux/my_application.h",
+        "hash": "16247811859198089624"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Info.plist",
+        "hash": "11340783432587386398"
+      },
+      {
+        "file": "frontend/mobile/macos/RunnerTests/RunnerTests.swift",
+        "hash": "16637501981638248215"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner.xcodeproj/project.pbxproj",
+        "hash": "10166235518584127806"
+      },
+      {
+        "file": "docker-compose.yml",
+        "hash": "9330820010381458752"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png",
+        "hash": "4153981484587230721"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/separator.tsx",
+        "hash": "1978076718437868180"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Base.lproj/MainMenu.xib",
+        "hash": "1328377450271359985"
+      },
+      {
+        "file": "frontend/browser/amplify/backend/auth/totalfitxe90066e8/cli-inputs.json",
+        "hash": "3244122217288800614"
+      },
+      {
+        "file": "backend/src/test/java/com/totalfitx/backend/test/utils/TypedPostgreSQLContainer.java",
+        "hash": "174956292526634121"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/Exercise.java",
+        "hash": "14441867792539033257"
+      },
+      {
+        "file": "frontend/browser/src/actions/authentify.ts",
+        "hash": "17454547519737937141"
+      },
+      {
+        "file": "frontend/browser/amplify/team-provider-info.json",
+        "hash": "10480751007587785026"
+      },
+      {
+        "file": "frontend/browser/src/lib/utils.ts",
+        "hash": "7693891966047857635"
+      },
+      {
+        "file": "frontend/mobile/ios/.gitignore",
+        "hash": "9461365862467552703"
+      },
+      {
+        "file": "frontend/browser/public/portrait.png",
+        "hash": "9412670568016854673"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/AppDelegate.swift",
+        "hash": "14558318509839827215"
+      },
+      {
+        "file": "frontend/mobile/web/manifest.json",
+        "hash": "3045413380750221134"
+      },
+      {
+        "file": "frontend/browser/next.config.mjs",
+        "hash": "10588996660065929783"
+      },
+      {
+        "file": "frontend/browser/src/app/nutrition/page.tsx",
+        "hash": "9519213239834193188"
+      },
+      {
+        "file": "frontend/browser/public/placeholder-user.jpg",
+        "hash": "1791361555052276298"
+      },
+      {
+        "file": "frontend/browser/amplify/backend/types/amplify-dependent-resources-ref.d.ts",
+        "hash": "13403712928122904328"
+      },
+      {
+        "file": "frontend/browser/tsconfig.json",
+        "hash": "4320684160905164141"
+      },
+      {
+        "file": "backend/mvnw.cmd",
+        "hash": "3450954333562591333"
+      },
+      {
+        "file": "frontend/browser/src/api/git_push.sh",
+        "hash": "257268719382818012"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/dto/UserGetDto.java",
+        "hash": "8231343737167471153"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/radio-group.tsx",
+        "hash": "10646533303141561680"
+      },
+      {
+        "file": "frontend/mobile/.gitignore",
+        "hash": "8185952768676751951"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/res/drawable-v21/launch_background.xml",
+        "hash": "5277285452130087583"
+      },
+      {
+        "file": "frontend/browser/src/app/dashboard/secure.tsx",
+        "hash": "3792402711621033251"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+        "hash": "14677658253387865530"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Runner-Bridging-Header.h",
+        "hash": "9637544283642395751"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png",
+        "hash": "14241345280459365417"
+      },
+      {
+        "file": "backend/src/main/resources/db/migration/V1__Initial_setup.sql",
+        "hash": "17015746365395108406"
+      },
+      {
+        "file": "frontend/browser/package.json",
+        "hash": "16096173129297907100"
+      },
+      {
+        "file": "frontend/mobile/ios/Flutter/AppFrameworkInfo.plist",
+        "hash": "11529496623945888018"
+      },
+      {
+        "file": "frontend/mobile/web/favicon.png",
+        "hash": "12034766639833803145"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/ExerciseRepository.java",
+        "hash": "2896791363384236160"
+      },
+      {
+        "file": "frontend/browser/src/app/activity/page.tsx",
+        "hash": "16876170219602695427"
+      },
+      {
+        "file": "frontend/browser/amplify/backend/backend-config.json",
+        "hash": "8344640082558312694"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
+        "hash": "12256863929162209681"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/AppDelegate.swift",
+        "hash": "15168876673386800243"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png",
+        "hash": "9943937238971639325"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/WorkoutRepository.java",
+        "hash": "13598910833132637775"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/win32_window.h",
+        "hash": "9216390411207458485"
+      },
+      {
+        "file": "frontend/mobile/ios/Flutter/Release.xcconfig",
+        "hash": "8296355507416790924"
+      },
+      {
+        "file": "frontend/mobile/android/build.gradle",
+        "hash": "10680593930732396476"
+      },
+      {
+        "file": "frontend/browser/public/google-logo.svg",
+        "hash": "10984060450355936912"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png",
+        "hash": "8198580046434161737"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/main.cpp",
+        "hash": "7693255591455652795"
+      },
+      {
+        "file": "package.json",
+        "hash": "786318799853510054"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/Runner.rc",
+        "hash": "13923257239954235418"
+      },
+      {
+        "file": "frontend/browser/src/api/index.ts",
+        "hash": "711698705255242673"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/UserHasWorkoutRepository.java",
+        "hash": "14116326251598357078"
+      },
+      {
+        "file": "workspace.json",
+        "hash": "18054008694711199204"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/PerformedWorkoutRepository.java",
+        "hash": "18301366419182923401"
+      },
+      {
+        "file": "frontend/browser/package-lock.json",
+        "hash": "15968664165962834151"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Base.lproj/LaunchScreen.storyboard",
+        "hash": "11147133233434053005"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+        "hash": "13291011583500627668"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/PerformedWorkoutHasExercise.java",
+        "hash": "9403631483722715579"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Configs/Release.xcconfig",
+        "hash": "16397530013675220207"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings",
+        "hash": "12614023595271004039"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme",
+        "hash": "8966832331411260353"
+      },
+      {
+        "file": "frontend/mobile/windows/.gitignore",
+        "hash": "13778506346611041103"
+      },
+      {
+        "file": "frontend/browser/src/api/configuration.ts",
+        "hash": "8978606728475394142"
+      },
+      {
+        "file": "frontend/browser/src/api/api.ts",
+        "hash": "6714732210403936852"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/select.tsx",
+        "hash": "9158532778847058189"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+        "hash": "15708111555404766564"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+        "hash": "10239208634629745166"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner.xcodeproj/project.pbxproj",
+        "hash": "2337618250185704051"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/DebugProfile.entitlements",
+        "hash": "16270093257311922781"
+      },
+      {
+        "file": "frontend/browser/src/app/layout.tsx",
+        "hash": "12598601093317767584"
+      },
+      {
+        "file": "backend/.mvn/wrapper/maven-wrapper.properties",
+        "hash": "13738072602276633278"
+      },
+      {
+        "file": "frontend/browser/src/app/page.tsx",
+        "hash": "10157469853804386606"
+      },
+      {
+        "file": "frontend/browser/src/actions/fetch-user.ts",
+        "hash": "16561671357811033276"
+      },
+      {
+        "file": "frontend/mobile/macos/Flutter/GeneratedPluginRegistrant.swift",
+        "hash": "14400164900485885773"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/flutter_window.cpp",
+        "hash": "1488603823732164897"
+      },
+      {
+        "file": "frontend/mobile/linux/my_application.cc",
+        "hash": "3370233622530426005"
+      },
+      {
+        "file": "backend/src/main/resources/application.properties",
+        "hash": "9837789574692330952"
+      },
+      {
+        "file": "frontend/mobile/android/app/build.gradle",
+        "hash": "13762694071865298232"
+      },
+      {
+        "file": "backend/pom.xml",
+        "hash": "5925483493559651714"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/label.tsx",
+        "hash": "17461498100996495370"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/kotlin/com/example/mobile/MainActivity.kt",
+        "hash": "6298527951393702341"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/RoleRepository.java",
+        "hash": "7830493751873696549"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Release.entitlements",
+        "hash": "17163027244279601276"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+        "hash": "17515915797888911451"
+      },
+      {
+        "file": "backend/src/main/resources/application.yml",
+        "hash": "11069721440940208493"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/UserRepository.java",
+        "hash": "8740100765605904483"
+      },
+      {
+        "file": "frontend/browser/src/api/.openapi-generator/FILES",
+        "hash": "15686158963041761166"
+      },
+      {
+        "file": "frontend/browser/amplify/.config/project-config.json",
+        "hash": "2928356286631756378"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/PersonData.java",
+        "hash": "9650797444051169455"
+      },
+      {
+        "file": "frontend/browser/src/auth.js",
+        "hash": "18310502130112203791"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png",
+        "hash": "11020049274280637400"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Configs/Warnings.xcconfig",
+        "hash": "6701710735166039954"
+      },
+      {
+        "file": "frontend/browser/README.md",
+        "hash": "12205685531602560652"
+      },
+      {
+        "file": "observability/otel-collector.yml",
+        "hash": "3096740884137218173"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png",
+        "hash": "4256688772913297625"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png",
+        "hash": "6391886343813779197"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "14857939830371308656"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/avatar.tsx",
+        "hash": "8660661188500548189"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/persistence/ActivityRepository.java",
+        "hash": "6883120125104613948"
+      },
+      {
+        "file": "frontend/browser/postcss.config.mjs",
+        "hash": "2557392112968376575"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/service/UserService.java",
+        "hash": "7678637489912649392"
+      },
+      {
+        "file": "frontend/mobile/ios/Flutter/Debug.xcconfig",
+        "hash": "8296355507416790924"
+      },
+      {
+        "file": "README.md",
+        "hash": "9916210872864256472"
+      },
+      {
+        "file": "frontend/mobile/windows/flutter/generated_plugin_registrant.cc",
+        "hash": "16331922066231475089"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/toast.tsx",
+        "hash": "14657746038572471583"
+      },
+      {
+        "file": "frontend/browser/src/app/community/page.tsx",
+        "hash": "13951304954142721840"
+      },
+      {
+        "file": "nx.json",
+        "hash": "9508265804284021462"
+      },
+      {
+        "file": "frontend/mobile/android/app/src/main/AndroidManifest.xml",
+        "hash": "2189606714782359321"
+      },
+      {
+        "file": "backend/src/test/java/com/totalfitx/backend/DataPopulationTest.java",
+        "hash": "13650876508154404513"
+      },
+      {
+        "file": "frontend/mobile/macos/.gitignore",
+        "hash": "1365112971241504482"
+      },
+      {
+        "file": "frontend/mobile/linux/flutter/generated_plugin_registrant.cc",
+        "hash": "11372770350917308975"
+      },
+      {
+        "file": "frontend/mobile/windows/CMakeLists.txt",
+        "hash": "11370019350565437657"
+      },
+      {
+        "file": "frontend/mobile/web/icons/Icon-maskable-192.png",
+        "hash": "10072076373731019854"
+      },
+      {
+        "file": "frontend/mobile/web/index.html",
+        "hash": "6734487790977943013"
+      },
+      {
+        "file": "frontend/mobile/linux/flutter/generated_plugin_registrant.h",
+        "hash": "11836116085089029027"
+      },
+      {
+        "file": "frontend/browser/public/weight-icon.svg",
+        "hash": "16967455409079074745"
+      },
+      {
+        "file": "openapitools.json",
+        "hash": "506816575023874783"
+      },
+      {
+        "file": "frontend/browser/src/api/base.ts",
+        "hash": "16338981905936858297"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json",
+        "hash": "3571928194528820613"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/resources/app_icon.ico",
+        "hash": "2068159416445343149"
+      },
+      {
+        "file": "frontend/mobile/linux/main.cc",
+        "hash": "17650215560441144117"
+      },
+      {
+        "file": "frontend/browser/src/api/.gitignore",
+        "hash": "14031326617291468971"
+      },
+      {
+        "file": "frontend/browser/src/components/component/login-component.tsx",
+        "hash": "4265448980730022655"
+      },
+      {
+        "file": "frontend/browser/src/components/component/landing-page-component.tsx",
+        "hash": "2390067909682024424"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png",
+        "hash": "14233470423577647923"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png",
+        "hash": "9089880720354936574"
+      },
+      {
+        "file": "backend/src/test/java/com/totalfitx/backend/BackendApplicationTests.java",
+        "hash": "11216223426532643668"
+      },
+      {
+        "file": "frontend/browser/src/api/.openapi-generator/VERSION",
+        "hash": "4065643332120465843"
+      },
+      {
+        "file": "frontend/mobile/lib/main.dart",
+        "hash": "13892144542632857294"
+      },
+      {
+        "file": "frontend/browser/src/components/component/register-component.tsx",
+        "hash": "16154419451818383306"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/table.tsx",
+        "hash": "12220893068497995597"
+      },
+      {
+        "file": "frontend/browser/components.json",
+        "hash": "4671513775694280997"
+      },
+      {
+        "file": "frontend/browser/src/app/analytics/page.tsx",
+        "hash": "4860658708120051709"
+      },
+      {
+        "file": "frontend/mobile/.metadata",
+        "hash": "6139209581239635270"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "16713339291517963077"
+      },
+      {
+        "file": "frontend/mobile/windows/flutter/generated_plugins.cmake",
+        "hash": "17345984157924822862"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/input.tsx",
+        "hash": "4166087822449204632"
+      },
+      {
+        "file": "backend/src/main/java/com/totalfitx/backend/model/UserHasWorkout.java",
+        "hash": "14261791704343447014"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/runner.exe.manifest",
+        "hash": "8416718375446324616"
+      },
+      {
+        "file": "frontend/mobile/README.md",
+        "hash": "12300536279755995922"
+      },
+      {
+        "file": "frontend/mobile/macos/Flutter/Flutter-Debug.xcconfig",
+        "hash": "4283936318666559862"
+      },
+      {
+        "file": "frontend/browser/.gitignore",
+        "hash": "15093643777983525803"
+      },
+      {
+        "file": "frontend/browser/amplify/backend/tags.json",
+        "hash": "344355778499095363"
+      },
+      {
+        "file": "frontend/mobile/windows/runner/utils.h",
+        "hash": "18264395129126980626"
+      },
+      {
+        "file": "frontend/browser/src/components/ui/dropdown-menu.tsx",
+        "hash": "1522769603090451912"
+      },
+      {
+        "file": "backend/.gitignore",
+        "hash": "13117984693027047402"
+      },
+      {
+        "file": "frontend/mobile/macos/Runner/Configs/Debug.xcconfig",
+        "hash": "6408901221256129706"
+      },
+      {
+        "file": "frontend/mobile/linux/flutter/CMakeLists.txt",
+        "hash": "11980246154045747296"
+      },
+      {
+        "file": "frontend/mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png",
+        "hash": "8198580046434161737"
+      }
+    ],
+    "projectFileMap": {}
+  }
+}

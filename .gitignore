@@ -1,0 +1,57 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node modules
+node_modules/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.packages
+.android/
+.ios/
+build/
+
+# Java and Spring Boot
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.db
+target/
+out/
+!src/main/**/application.properties
+!src/main/**/application.yml
+
+# Environment files (ensures .env is ignored)
+.env
+.env.*
+.env.local
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Build directories
+coverage/
+**/build/
+**/.gradle/
+
+# Vercel
+.vercel
+output/

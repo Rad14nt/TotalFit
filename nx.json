@@ -1,0 +1,23 @@
+{
+  "npmScope": "totalfitx",
+  "implicitDependencies": {
+    "workspace.json": "*",
+    "package.json": {
+      "dependencies": "*",
+      "devDependencies": "*"
+    },
+    "tsconfig.base.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "frontend": {
+      "tags": []
+    },
+    "backend": {
+      "tags": []
+    },
+    "mobile": {
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "totalfitx": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-totalfitx-totalfitx-dfe6a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::014498645160:role/amplify-totalfitx-totalfitx-dfe6a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::014498645160:role/amplify-totalfitx-totalfitx-dfe6a-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-totalfitx-totalfitx-dfe6a-deployment",
+      "UnauthRoleName": "amplify-totalfitx-totalfitx-dfe6a-unauthRole",
+      "StackName": "amplify-totalfitx-totalfitx-dfe6a",
+      "StackId": "arn:aws:cloudformation:eu-west-3:014498645160:stack/amplify-totalfitx-totalfitx-dfe6a/c08c2c00-5239-11ef-8390-0ab7769f028d",
+      "AmplifyAppId": "d1m5cot4z2c6o"
+    },
+    "categories": {
+      "auth": {
+        "totalfitxe90066e8": {}
+      }
+    }
+  }
+}

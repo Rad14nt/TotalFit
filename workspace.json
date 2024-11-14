@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "projects": {
+    "frontend": {
+      "projectType": "application",
+      "root": "apps/frontend",
+      "sourceRoot": "apps/frontend/lib",
+      "architect": {}
+    },
+    "backend": {
+      "projectType": "application",
+      "root": "apps/backend",
+      "sourceRoot": "apps/backend/src",
+      "architect": {}
+    },
+    "mobile": {
+      "projectType": "application",
+      "root": "apps/mobile",
+      "sourceRoot": "apps/mobile/lib",
+      "architect": {}
+    }
+  }
+}
