@@ -55,3 +55,6 @@ coverage/
 # Vercel
 .vercel
 output/
+
+# NX
+.nx
